@@ -10,4 +10,4 @@ python3
 tensorflow-gpu==1.13.0 or tensorflow==1.13.0  
 ### 效果
 从左到右是nearest算法、SRGAN、原图生成的图片  
-<img src="https://github.com/LiuChen-China/SRGAN-32To64/blob/master/Static/example.jpg">
+<img src="https://github.com/LiuChen-China/SRGAN-32To64/blob/master/Static/example.jpg" width=192>
